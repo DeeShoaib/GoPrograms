@@ -1,2 +1,2 @@
 # GoPrograms
-Hello There I am typing this just to experience something
+Hello There! I am typing this just to try something new
